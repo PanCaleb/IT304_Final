@@ -21,12 +21,12 @@
 title: IT 304 Assignment 4 - Caleb Pan
 email: cpan6@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  IT 304 assignment 4 desgined by Caleb Pan 
+  IT 304 Final Project 
   Section: DL3 |
   Professor: Myeong Lee
   
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://github.com/PanCaleb/IT304A4.git" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/PanCaleb/IT304_assignment.git" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
