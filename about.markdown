@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ethics
+title: About
 permalink: /about/
 ---
 
