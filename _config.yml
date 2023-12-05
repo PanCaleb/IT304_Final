@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IT 304 Assignment 4 - Caleb Pan
-email: cpan6@gmu.edu
+title: IT 304 FINAL PROJECT 
+email: group project
 description: >- # this means to ignore newlines until "baseurl:"
   IT 304 Final Project 
   Section: DL3 |
