@@ -26,9 +26,6 @@ title: IT304 final - Caleb Pan
 email: cpan6@gmu.edu
 
 description: >-
-  IT 304 Final Project
-  Section: DL3
-  Professor: Myeong Lee
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/PanCaleb/IT304_Final.git" # the base hostname & protocol for your site, e.g. http://example.com
