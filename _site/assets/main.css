@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #088F8F;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -208,7 +208,7 @@ table th, table td {
 table th {
   background-color: #f0f0f0;
   border: 1px solid #dedede;
-  border-bottom-color: #c9c9c9;
+  border-bottom-color: #088F8F;
 }
 table td {
   border: 1px solid #e8e8e8;
