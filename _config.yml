@@ -28,7 +28,6 @@ description: >-
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/PanCaleb/IT304_Final.git" # the base hostname & protocol for your site, e.g. http://example.com
-<link rel="stylesheet" href="{{ "/assets/css/main.css, " | prepend: site.baseurl }}">
 
 
 
