@@ -36,11 +36,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - /_includes/index.html
-  - /_includes/intro.html
-  - /_includes/examples.html
-  - /_includes/ethics.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
