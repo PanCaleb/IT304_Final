@@ -39,7 +39,7 @@ plugins:
 header_pages:
   - index.html
   - intro.html
-  - example.html
+  - examples.html
   - ethics.html
 
 # Exclude from processing.
