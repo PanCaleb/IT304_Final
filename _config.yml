@@ -37,10 +37,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
-   - {%include index.html%}
-   - {%include intro.html%}
-   - {%include example.html%}
-   - {%include ethics.html%}
+  - index.html
+  - intro.html
+  - example.html
+  - ethics.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
