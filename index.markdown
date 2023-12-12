@@ -5,5 +5,6 @@ layout: page
 title: Home
 permalink: /
 layout: home
+order: 1
 ---
 {%include index.html%}
